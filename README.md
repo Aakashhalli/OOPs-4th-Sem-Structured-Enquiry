@@ -2,8 +2,8 @@
 1.1	Problem Statement 
     You are designing a content management system in C++ that allows users to create, edit, and publish blog posts, articles, and multimedia content. 
     How would you design classes to represent different types of content, user roles and permissions, content creation workflows, and methods for managing and 
-    displaying content within the CMS?
-
+    displaying content within the CMS? <br />
+<pre>
 1.2	Features of Application
     User Authentication and Role Management:
         1.	User Signup:
@@ -62,3 +62,4 @@
     Additional Features:
         14.	Role-Based Access Control:
             o	Ensures that actions available to users are based on their roles, preventing unauthorized access to functionalities.
+</pre>
